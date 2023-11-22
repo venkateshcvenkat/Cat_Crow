@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 8edde4aa33a2b7a4a85897c884bb41b9
+timeCreated: 1479582618
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bk_handle
+    100002: bk_susp_child
+    100004: bk_susp_pare
+    100006: bk_suspention
+    100008: bk_wheel
+    100010: body
+    100012: DirtBike_A_Rig:Root
+    100014: //RootNode
+    100016: Dirtbikes_A
+    100018: Dirtbikes_A_Bodypart
+    100020: Dirtbikes_A_Handle
+    100022: Dirtbikes_A_wheel_B
+    100024: Dirtbikes_A_wheel_F
+    100026: FT_wheel_Ball
+    100028: ft_wheel_suspention
+    100030: handle
+    100032: transform1
+    100034: LegRest1
+    400000: bk_handle
+    400002: bk_susp_child
+    400004: bk_susp_pare
+    400006: bk_suspention
+    400008: bk_wheel
+    400010: body
+    400012: DirtBike_A_Rig:Root
+    400014: //RootNode
+    400016: Dirtbikes_A
+    400018: Dirtbikes_A_Bodypart
+    400020: Dirtbikes_A_Handle
+    400022: Dirtbikes_A_wheel_B
+    400024: Dirtbikes_A_wheel_F
+    400026: FT_wheel_Ball
+    400028: ft_wheel_suspention
+    400030: handle
+    400032: transform1
+    400034: LegRest1
+    4300000: Dirtbikes_A_Handle
+    4300002: Dirtbikes_A_wheel_F
+    4300004: Dirtbikes_A_wheel_B
+    4300006: Dirtbikes_A_Bodypart
+    4300008: LegRest1
+    9500000: //RootNode
+    13700000: Dirtbikes_A_Bodypart
+    13700002: Dirtbikes_A_Handle
+    13700004: Dirtbikes_A_wheel_B
+    13700006: Dirtbikes_A_wheel_F
+    13700008: LegRest1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

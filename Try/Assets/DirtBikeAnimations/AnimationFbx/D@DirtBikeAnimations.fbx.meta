@@ -1,0 +1,3743 @@
+fileFormatVersion: 2
+guid: 65f73ecb84b17ac469d467a478cca93a
+timeCreated: 1479582892
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bk_handle
+    100002: bk_susp_child
+    100004: bk_susp_pare
+    100006: bk_suspention
+    100008: bk_wheel
+    100010: body
+    100012: Chest_J
+    100014: //RootNode
+    100016: DirtBike_A_Handle
+    100018: DirtBike_A_Rig2
+    100020: DirtBike_A_Rig:Root
+    100022: DirtBike_Man_Rig_01:Arms_geo
+    100024: DirtBike_Man_Rig_01:Body_goe
+    100026: DirtBike_Man_Rig_01:Face_geo
+    100028: DirtBike_Man_Rig_01:Gloves_geo
+    100030: DirtBike_Man_Rig_01:Goggles_geo
+    100032: DirtBike_Man_Rig_01:Hand_geo
+    100034: DirtBike_Man_Rig_01:Helmet_geo
+    100036: DirtBike_Man_Rig_01:Jean_geo
+    100038: DirtBike_Man_Rig_01:Shoue_geo
+    100040: DirtBike_Man_Rig_02
+    100042: Dirtbikes_A_Bodypart
+    100044: Dirtbikes_A_wheel_B
+    100046: Dirtbikes_A_wheel_F
+    100048: FT_wheel_Ball
+    100050: ft_wheel_suspention
+    100052: handle
+    100054: L_Ankle_J
+    100056: L_Arm_J
+    100058: L_Ball_J
+    100060: L_Clavicle_J
+    100062: L_Elbow_J
+    100064: L_Hip_J
+    100066: L_Index_01_J
+    100068: L_Index_02_J
+    100070: L_Index_03_J
+    100072: L_Knee_J
+    100074: L_Middle_01_J
+    100076: L_Middle_02_J
+    100078: L_Middle_03_J
+    100080: L_ProWrist_J
+    100082: L_Thumb_01_J
+    100084: L_Thumb_02_J
+    100086: L_Toe_J
+    100088: L_Wrist_J
+    100090: Neck_J
+    100092: Pelvis_J
+    100094: R_Ankle_J
+    100096: R_Arm_J
+    100098: R_Ball_J
+    100100: R_Clavicle_J
+    100102: R_Elbow_J
+    100104: R_Hip_J
+    100106: R_Index_01_J
+    100108: R_Index_02_J
+    100110: R_Index_03_J
+    100112: R_Knee_J
+    100114: R_Middle_01_J
+    100116: R_Middle_02_J
+    100118: R_Middle_03_J
+    100120: R_ProWrist_J
+    100122: R_Thumb_01_J
+    100124: R_Thumb_02_J
+    100126: R_Toe_J
+    100128: R_Wrist_J
+    100130: Root_J
+    100132: Spline_01_J
+    100134: Spline_02_J
+    100136: transform1
+    400000: bk_handle
+    400002: bk_susp_child
+    400004: bk_susp_pare
+    400006: bk_suspention
+    400008: bk_wheel
+    400010: body
+    400012: Chest_J
+    400014: //RootNode
+    400016: DirtBike_A_Handle
+    400018: DirtBike_A_Rig2
+    400020: DirtBike_A_Rig:Root
+    400022: DirtBike_Man_Rig_01:Arms_geo
+    400024: DirtBike_Man_Rig_01:Body_goe
+    400026: DirtBike_Man_Rig_01:Face_geo
+    400028: DirtBike_Man_Rig_01:Gloves_geo
+    400030: DirtBike_Man_Rig_01:Goggles_geo
+    400032: DirtBike_Man_Rig_01:Hand_geo
+    400034: DirtBike_Man_Rig_01:Helmet_geo
+    400036: DirtBike_Man_Rig_01:Jean_geo
+    400038: DirtBike_Man_Rig_01:Shoue_geo
+    400040: DirtBike_Man_Rig_02
+    400042: Dirtbikes_A_Bodypart
+    400044: Dirtbikes_A_wheel_B
+    400046: Dirtbikes_A_wheel_F
+    400048: FT_wheel_Ball
+    400050: ft_wheel_suspention
+    400052: handle
+    400054: L_Ankle_J
+    400056: L_Arm_J
+    400058: L_Ball_J
+    400060: L_Clavicle_J
+    400062: L_Elbow_J
+    400064: L_Hip_J
+    400066: L_Index_01_J
+    400068: L_Index_02_J
+    400070: L_Index_03_J
+    400072: L_Knee_J
+    400074: L_Middle_01_J
+    400076: L_Middle_02_J
+    400078: L_Middle_03_J
+    400080: L_ProWrist_J
+    400082: L_Thumb_01_J
+    400084: L_Thumb_02_J
+    400086: L_Toe_J
+    400088: L_Wrist_J
+    400090: Neck_J
+    400092: Pelvis_J
+    400094: R_Ankle_J
+    400096: R_Arm_J
+    400098: R_Ball_J
+    400100: R_Clavicle_J
+    400102: R_Elbow_J
+    400104: R_Hip_J
+    400106: R_Index_01_J
+    400108: R_Index_02_J
+    400110: R_Index_03_J
+    400112: R_Knee_J
+    400114: R_Middle_01_J
+    400116: R_Middle_02_J
+    400118: R_Middle_03_J
+    400120: R_ProWrist_J
+    400122: R_Thumb_01_J
+    400124: R_Thumb_02_J
+    400126: R_Toe_J
+    400128: R_Wrist_J
+    400130: Root_J
+    400132: Spline_01_J
+    400134: Spline_02_J
+    400136: transform1
+    4300000: DirtBike_Man_Rig_01:Jean_geo
+    4300002: DirtBike_Man_Rig_01:Face_geo
+    4300004: DirtBike_Man_Rig_01:Goggles_geo
+    4300006: DirtBike_Man_Rig_01:Body_goe
+    4300008: DirtBike_Man_Rig_01:Arms_geo
+    4300010: DirtBike_Man_Rig_01:Hand_geo
+    4300012: DirtBike_Man_Rig_01:Gloves_geo
+    4300014: DirtBike_Man_Rig_01:Shoue_geo
+    4300016: DirtBike_Man_Rig_01:Helmet_geo
+    4300018: DirtBike_A_Handle
+    4300020: Dirtbikes_A_wheel_F
+    4300022: Dirtbikes_A_wheel_B
+    4300024: Dirtbikes_A_Bodypart
+    7400000: BikeIn
+    7400002: 'Start Idle '
+    7400004: 'Start '
+    7400006: 'start push '
+    7400008: 'left bend '
+    7400010: 'right bend '
+    7400012: 'right turn '
+    7400014: 'Left Turn '
+    7400016: 'speed barker cross '
+    7400018: 'speed nitro Move '
+    7400020: 'Bike Acrobats '
+    7400022: 'back push '
+    7400024: 'rotate 360 '
+    7400026: 'Half Wheelie '
+    7400028: 'right obstacle escape '
+    7400030: 'Drive left and right steering '
+    7400032: full wheelie
+    7400034: 'orce stop '
+    7400036: 'back to normal '
+    7400038: ' crash_right '
+    7400040: Crash_Left
+    9500000: //RootNode
+    13700000: DirtBike_A_Handle
+    13700002: DirtBike_Man_Rig_01:Arms_geo
+    13700004: DirtBike_Man_Rig_01:Body_goe
+    13700006: DirtBike_Man_Rig_01:Face_geo
+    13700008: DirtBike_Man_Rig_01:Gloves_geo
+    13700010: DirtBike_Man_Rig_01:Goggles_geo
+    13700012: DirtBike_Man_Rig_01:Hand_geo
+    13700014: DirtBike_Man_Rig_01:Helmet_geo
+    13700016: DirtBike_Man_Rig_01:Jean_geo
+    13700018: DirtBike_Man_Rig_01:Shoue_geo
+    13700020: Dirtbikes_A_Bodypart
+    13700022: Dirtbikes_A_wheel_B
+    13700024: Dirtbikes_A_wheel_F
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BikeIn
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'Start Idle '
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'Start '
+      takeName: Take 001
+      firstFrame: 114
+      lastFrame: 192
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'start push '
+      takeName: Take 001
+      firstFrame: 192
+      lastFrame: 313
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'left bend '
+      takeName: Take 001
+      firstFrame: 313
+      lastFrame: 383
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'right bend '
+      takeName: Take 001
+      firstFrame: 384
+      lastFrame: 443
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'right turn '
+      takeName: Take 001
+      firstFrame: 444
+      lastFrame: 464
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'Left Turn '
+      takeName: Take 001
+      firstFrame: 467
+      lastFrame: 481
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'speed barker cross '
+      takeName: Take 001
+      firstFrame: 482
+      lastFrame: 512
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'speed nitro Move '
+      takeName: Take 001
+      firstFrame: 513
+      lastFrame: 551
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'Bike Acrobats '
+      takeName: Take 001
+      firstFrame: 552
+      lastFrame: 648
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'back push '
+      takeName: Take 001
+      firstFrame: 649
+      lastFrame: 741
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'rotate 360 '
+      takeName: Take 001
+      firstFrame: 742
+      lastFrame: 937
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'Half Wheelie '
+      takeName: Take 001
+      firstFrame: 938
+      lastFrame: 1052
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'right obstacle escape '
+      takeName: Take 001
+      firstFrame: 1053
+      lastFrame: 1099
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'Drive left and right steering '
+      takeName: Take 001
+      firstFrame: 1100
+      lastFrame: 1153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: full wheelie
+      takeName: Take 001
+      firstFrame: 1154
+      lastFrame: 1351
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'orce stop '
+      takeName: Take 001
+      firstFrame: 1352
+      lastFrame: 1434
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 'back to normal '
+      takeName: Take 001
+      firstFrame: 1435
+      lastFrame: 1493
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: ' crash_right '
+      takeName: Take 001
+      firstFrame: 1494
+      lastFrame: 1540
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Crash_Left
+      takeName: Take 001
+      firstFrame: 1541
+      lastFrame: 1580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DirtBike_A_Rig2
+        weight: 1
+      - path: DirtBike_A_Rig2/DirtBike_A_Handle
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_Bodypart
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_B
+        weight: 1
+      - path: DirtBike_A_Rig2/Dirtbikes_A_wheel_F
+        weight: 1
+      - path: DirtBike_A_Rig:Root
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_susp_child
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_handle/bk_suspention/bk_wheel
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/bk_susp_pare
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention
+        weight: 1
+      - path: DirtBike_A_Rig:Root/transform1/body/handle/ft_wheel_suspention/FT_wheel_Ball
+        weight: 1
+      - path: DirtBike_Man_Rig_02
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Arms_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Body_goe
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Face_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Gloves_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Goggles_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Hand_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Helmet_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Jean_geo
+        weight: 1
+      - path: DirtBike_Man_Rig_02/DirtBike_Man_Rig_01:Shoue_geo
+        weight: 1
+      - path: Root_J
+        weight: 1
+      - path: Root_J/Pelvis_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/L_Hip_J/L_Knee_J/L_Ankle_J/L_Ball_J/L_Toe_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J
+        weight: 1
+      - path: Root_J/Pelvis_J/R_Hip_J/R_Knee_J/R_Ankle_J/R_Ball_J/R_Toe_J
+        weight: 1
+      - path: Root_J/Spline_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Index_01_J/L_Index_02_J/L_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Middle_01_J/L_Middle_02_J/L_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/L_Clavicle_J/L_Arm_J/L_Elbow_J/L_Wrist_J/L_Thumb_01_J/L_Thumb_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/Neck_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_ProWrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Index_01_J/R_Index_02_J/R_Index_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Middle_01_J/R_Middle_02_J/R_Middle_03_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J
+        weight: 1
+      - path: Root_J/Spline_01_J/Spline_02_J/Chest_J/R_Clavicle_J/R_Arm_J/R_Elbow_J/R_Wrist_J/R_Thumb_01_J/R_Thumb_02_J
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

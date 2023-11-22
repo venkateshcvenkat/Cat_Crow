@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: a585070689208ee47b9645368de3ba98
+timeCreated: 1479582619
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest_J
+    100002: //RootNode
+    100004: DirtBike_Man_Rig_02:Arms_geo
+    100006: DirtBike_Man_Rig_02:Body_goe
+    100008: DirtBike_Man_Rig_02:Face_geo
+    100010: DirtBike_Man_Rig_02:Gloves_geo
+    100012: DirtBike_Man_Rig_02:Goggles_geo
+    100014: DirtBike_Man_Rig_02:Hand_geo
+    100016: DirtBike_Man_Rig_02:Helmet_geo
+    100018: DirtBike_Man_Rig_02:Jean_geo
+    100020: DirtBike_Man_Rig_02:Shoue_geo
+    100022: DirtBike_Man_Rig_03
+    100024: L_Ankle_J
+    100026: L_Arm_J
+    100028: L_Ball_J
+    100030: L_Clavicle_J
+    100032: L_Elbow_J
+    100034: L_Hip_J
+    100036: L_Index_01_J
+    100038: L_Index_02_J
+    100040: L_Index_03_J
+    100042: L_Knee_J
+    100044: L_Middle_01_J
+    100046: L_Middle_02_J
+    100048: L_Middle_03_J
+    100050: L_ProWrist_J
+    100052: L_Thumb_01_J
+    100054: L_Thumb_02_J
+    100056: L_Toe_J
+    100058: L_Wrist_J
+    100060: Neck_J
+    100062: Pelvis_J
+    100064: R_Ankle_J
+    100066: R_Arm_J
+    100068: R_Ball_J
+    100070: R_Clavicle_J
+    100072: R_Elbow_J
+    100074: R_Hip_J
+    100076: R_Index_01_J
+    100078: R_Index_02_J
+    100080: R_Index_03_J
+    100082: R_Knee_J
+    100084: R_Middle_01_J
+    100086: R_Middle_02_J
+    100088: R_Middle_03_J
+    100090: R_ProWrist_J
+    100092: R_Thumb_01_J
+    100094: R_Thumb_02_J
+    100096: R_Toe_J
+    100098: R_Wrist_J
+    100100: Root_J
+    100102: Spline_01_J
+    100104: Spline_02_J
+    400000: Chest_J
+    400002: //RootNode
+    400004: DirtBike_Man_Rig_02:Arms_geo
+    400006: DirtBike_Man_Rig_02:Body_goe
+    400008: DirtBike_Man_Rig_02:Face_geo
+    400010: DirtBike_Man_Rig_02:Gloves_geo
+    400012: DirtBike_Man_Rig_02:Goggles_geo
+    400014: DirtBike_Man_Rig_02:Hand_geo
+    400016: DirtBike_Man_Rig_02:Helmet_geo
+    400018: DirtBike_Man_Rig_02:Jean_geo
+    400020: DirtBike_Man_Rig_02:Shoue_geo
+    400022: DirtBike_Man_Rig_03
+    400024: L_Ankle_J
+    400026: L_Arm_J
+    400028: L_Ball_J
+    400030: L_Clavicle_J
+    400032: L_Elbow_J
+    400034: L_Hip_J
+    400036: L_Index_01_J
+    400038: L_Index_02_J
+    400040: L_Index_03_J
+    400042: L_Knee_J
+    400044: L_Middle_01_J
+    400046: L_Middle_02_J
+    400048: L_Middle_03_J
+    400050: L_ProWrist_J
+    400052: L_Thumb_01_J
+    400054: L_Thumb_02_J
+    400056: L_Toe_J
+    400058: L_Wrist_J
+    400060: Neck_J
+    400062: Pelvis_J
+    400064: R_Ankle_J
+    400066: R_Arm_J
+    400068: R_Ball_J
+    400070: R_Clavicle_J
+    400072: R_Elbow_J
+    400074: R_Hip_J
+    400076: R_Index_01_J
+    400078: R_Index_02_J
+    400080: R_Index_03_J
+    400082: R_Knee_J
+    400084: R_Middle_01_J
+    400086: R_Middle_02_J
+    400088: R_Middle_03_J
+    400090: R_ProWrist_J
+    400092: R_Thumb_01_J
+    400094: R_Thumb_02_J
+    400096: R_Toe_J
+    400098: R_Wrist_J
+    400100: Root_J
+    400102: Spline_01_J
+    400104: Spline_02_J
+    4300000: DirtBike_Man_Rig_02:Jean_geo
+    4300002: DirtBike_Man_Rig_02:Face_geo
+    4300004: DirtBike_Man_Rig_02:Goggles_geo
+    4300006: DirtBike_Man_Rig_02:Body_goe
+    4300008: DirtBike_Man_Rig_02:Arms_geo
+    4300010: DirtBike_Man_Rig_02:Hand_geo
+    4300012: DirtBike_Man_Rig_02:Gloves_geo
+    4300014: DirtBike_Man_Rig_02:Shoue_geo
+    4300016: DirtBike_Man_Rig_02:Helmet_geo
+    9500000: //RootNode
+    13700000: DirtBike_Man_Rig_02:Arms_geo
+    13700002: DirtBike_Man_Rig_02:Body_goe
+    13700004: DirtBike_Man_Rig_02:Face_geo
+    13700006: DirtBike_Man_Rig_02:Gloves_geo
+    13700008: DirtBike_Man_Rig_02:Goggles_geo
+    13700010: DirtBike_Man_Rig_02:Hand_geo
+    13700012: DirtBike_Man_Rig_02:Helmet_geo
+    13700014: DirtBike_Man_Rig_02:Jean_geo
+    13700016: DirtBike_Man_Rig_02:Shoue_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
